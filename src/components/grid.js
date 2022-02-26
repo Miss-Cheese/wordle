@@ -1,10 +1,11 @@
 import React from "react";
-import Square from "./square";
+import Square from "./Square";
+import Line from "./Line";
 
 function Grid () {
     return (
         <>
-            <Square />
+            <Line />
         </>
     )
 }

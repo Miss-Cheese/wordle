@@ -3,7 +3,7 @@ import React from "react";
 function Square () {
     return (
         <div className="square">
-            W
+            <h1 className="text">W</h1>
         </div>
     )
 }

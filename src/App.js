@@ -1,11 +1,11 @@
 import React from 'react'
-import './App.css'
-import Grid from './components/grid'
+import './App.scss'
+import Grid from './components/Grid'
 
 function App () {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div className="app">
+      <header className="app-header">
         <h1>Hello, it's going to be Wordle!</h1>
       </header>
       <Grid />
